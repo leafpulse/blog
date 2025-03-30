@@ -1,0 +1,1 @@
+Canonical: https://leafpulse.github.io/blog/security.txt
