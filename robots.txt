@@ -4,4 +4,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://leafpulse.github.io/blog/sitemap.xml
+Sitemap: https://leafpulse.github.io/us/sitemap.xml
